@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/home/erwin/Downloads/Flash-Loan-Arbitrage/contracts/FlashLoan.sol": {
-      "lastModificationDate": 1768450622404,
-      "contentHash": "c34cf0b6857c3128dcd40fbdefaa512e",
+      "lastModificationDate": 1768452372894,
+      "contentHash": "0091eb29f5d2cdd6d8772baa72fab5cb",
       "sourceName": "contracts/FlashLoan.sol",
       "solcConfig": {
         "version": "0.8.24",
